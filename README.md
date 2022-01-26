@@ -1,1 +1,1 @@
-# github-test-proect
+# github-test-project
